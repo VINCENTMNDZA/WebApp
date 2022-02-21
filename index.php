@@ -4,7 +4,7 @@
     <title>My Home Page</title>
     </head>
   <body>
-    <h1>Welcome to My Website! I am Jill Anne L. Orquiales<3</h1>
+    <h1>Welcome to My Website! John Vincent Mendoza</h1>
     <ul>
       <li><a href="index.php">HOME</a></li> 
       <li><a href="Beefinbeer.html">Learning Task</a></li>
