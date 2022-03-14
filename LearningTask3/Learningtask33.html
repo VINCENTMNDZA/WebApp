@@ -105,7 +105,7 @@
            
        <div id="box-one"v>
            <h1>Top 5</h1>
-           <img src="hardtimes.jpg" width=250px height=200px align=auto>
+           <img src="paramore.jfif" width=250px height=200px align=auto>
              <h2> Paramore - Hard Times</h2>
                <p>It was released on April 19, 2017,through Fueled by Ramen as the album's lead single.The song was written by lead vocalist Hayley Williams and guitarist Taylor York and was recorded in the band's hometown, Nashville, Tennessee.</p>
             
@@ -114,14 +114,14 @@
         </div>
        <div id="box-two">
             <h1>Top 4</h1>
-            <img src="jannagarcia.jpg" width=250 height=200>
+            <img src="ajanna.jfif" width=250 height=200>
             <h2>Nananabik - Janna Garcia</h2>
             <p> “Nananabik” is a light and groovy pop song about unexpressed excitement when one is at the brink of a brewing mutual understanding (MU). The slightest of movements mean something and it seems everything is a blur.</p>
         </div>
         
         <div id="box-three">
             <h1>Top 3</h1>
-            <img src="finalsong.jpg" width=250 height=200>
+            <img src="download.jfif" width=250 height=200>
            <h2> MØ - Final Song
 </h2>
                 <p> "'Final Song' is about reconnecting with your inner strength," MØ said. "With your inner glow, passion, spirit animal, whatever – the force that keeps us going and doing what we love. </p>
@@ -129,7 +129,7 @@
          
        <div id="box-four">
            <h1>Top 2</h1>
-           <img src="allnightlong.jpg" width=250 height=200>
+           <img src="allnight.jfif" width=250 height=200>
                  <h2> Mary Jane - All night long</h2>
                  <p> "Mary Jane (All Night Long)" is a 1995 single by American singer-songwriter Mary J. Blige, released as the third single from her second studio album, My Life.
            </p>
@@ -137,14 +137,14 @@
         
        <div id="box-five">
            <h1><b>Top 1</b></h1>
-           <img src="sliz.jpg" width=250px height=200px>
+           <img src="download%20(5).jfif" width=250px height=200px>
                 <h2> Sliz - Sige</h2>
                 <P> This song is my most played and stayed in my playlist for almost a year. A relaxing song made me being so imaginative. It made me relax all the time and staying me calm.</P>
         </div>
         
        <div id="box-six">
            <h1>Top 10</h1>
-           <img src="moneytrees.jpg" width=250 height=200>
+           <img src="download%20(4).jfif" width=250 height=200>
             <h2> Money Trees</h2>
             <p>“Money Trees“, Lamar basically proposes that getting rich brings comfort and saves you from the everyday difficulties people face. At the same time however, the pursuit of a lot of money is accompanied by evil. Owing to this, a person may have to choose to go to extreme lengths in order to make wealth. </p>
        </div>
@@ -156,19 +156,19 @@
        </div>
        <div id="box-eight">
            <h1>Top 8</h1>
-           <img src="phil.jpg" width=250 height=200>
+           <img src="philautua.jfif" width=250 height=200>
             <h2>Carm - Philautia</h2>
             <p> Its all about self-love or self-conceit. undue regard for oneself or one's own interests</p>
         </div>
        <div id="box-nine"v>
            <h1>Top 7</h1>
-           <img src="ibiza.jpg" width=250 height=200>
+           <img src="ibiza.jfif" width=250 height=200>
             <h2>I took a pill in Ibiza</h2>
             <p>The title references Ibiza, a Mediterranean island that is part of the Balearic Islands of Spain, while the pill was a "mystery" drug according to Posner. Posner later confirmed that the identity of the mystery substance was MDMA.</p>
         </div>
        <div id="box-ten"> 
            <h1>Top 6</h1>
-           <img src="pwedeba.jpg" width=250 height=200>
+           <img src="pwede.jfif" width=250 height=200>
             <h2> Lola Amour - Pwede Ba</h2>
             <p>It is a pre-breakup song, to say the least, a track that can represent the kind of merry-making people can engage in to temporarily avoid life’s harsher aspects. And it all came to be just because the band’s lead singer Pio Dumayas didn’t want to go to school.</p>
         </div>
