@@ -3,7 +3,7 @@
        <title>Learning Task 3</title>
         <h1>MY TOP 10 FAVORITE SONGS!</h1>
        <style>
-    #wrapper {a
+    #wrapper {
     width: 2030px;
     height: 910px;
     border: 2px solid grey;    
@@ -172,3 +172,7 @@
             <h2> Lola Amour - Pwede Ba</h2>
             <p>It is a pre-breakup song, to say the least, a track that can represent the kind of merry-making people can engage in to temporarily avoid life’s harsher aspects. And it all came to be just because the band’s lead singer Pio Dumayas didn’t want to go to school.</p>
         </div>
+    
+        </div>
+    </body>
+</html>
