@@ -33,10 +33,10 @@
         <div class="nav-links" id="navinks">
         <i class=" fa fa-times-circle" aria-hidden="true"></i>
             <ul>
-            <li><a href="">HOME</a></li>
-            <li><a href="">ABOUT</a></li>
-            <li><a href="">GALLERY</a></li>
-            <li><a href="">ABOUT US</a></li>
+            <li><a href="https://learningtaskhtmlmendoza.herokuapp.com/">HOME</a></li>
+            <li><a href="ACTION.HTML">ABOUT</a></li>
+            <li><a href="GALLERY.html">GALLERY</a></li>
+            <li><a href="ABOUTUS.html">ABOUT US</a></li>
             </ul>    
         </div>
         <i class="fa fa-bars" aria-hidden="true"></i>
