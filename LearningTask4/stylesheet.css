@@ -1,0 +1,53 @@
+body{
+      background-image: url(color.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+}
+#wrapper{
+      width: 1024px;
+      min-height: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 2px solid white;
+}
+#content p{
+      font-size: 100px;
+      color: red;
+      font-family:'Rubik Moonrocks', cursive;
+      text-align: center;
+      text-shadow: 5px 2px 5px black;
+}
+#content p2{
+      font-size: 100px;
+      color: black;
+      font-family: 'Rubik Puddles', cursive;
+      text-align: center;
+      text-shadow: 5px 2px 5px white;
+}
+#content p3{
+      font-size: 15px;
+      color: white;
+      font-family: 'Oswald', sans-serif;
+      text-align-last: right;
+      text-shadow: 5px 2px 5px black;
+}
+#content p4{
+      font-size: 100px;
+      color: yellow;
+      font-family:'Rubik Moonrocks', cursive;
+      text-align: center;
+     text-shadow: 5px 2px 5px black;
+}
+#content span{
+      font-size: 30px;
+      color:azure;
+      font-family: 'Oswald', sans-serif;
+      text-align: center;
+      text-shadow:  5px 2px 5px black;
+      float: right;
+}
+
+
+
+
