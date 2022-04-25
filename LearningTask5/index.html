@@ -1,1 +1,38 @@
 
+<html>
+<head>
+        <title>OnClick</title>
+          <link rel="stylesheet" 
+          href="stylesheet.css">
+<script>
+        function light (value)
+            {
+            var pic;
+                if (value == 0)
+                    {
+                    pic="normal.png";
+                    }
+                else 
+                    {
+                        pic="bankai.png"
+                    }
+                document.getElementById('danielp').src=pic;
+            }
+</script>
+    <body>
+
+        <center>
+                    <h1> EVOLUTION OF DANIEL P </h1>
+
+        <img id= "danielp" src="d.png"
+             width= 700px    height = 700px>
+            <br>
+            <button type="button" onclick="light(0)">NORMAL🙂</button>
+            <button type="button" onclick="light(1)">BANKAI!!😤</button>
+            
+        
+        </center>
+        
+    </body>
+</head>
+</html>
